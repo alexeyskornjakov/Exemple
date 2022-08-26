@@ -1,0 +1,15 @@
+C:\Users\Samsung\Desktop\Sharpito\Exemple_1\bin\Debug\net6.0\Exemple_1.exe
+C:\Users\Samsung\Desktop\Sharpito\Exemple_1\bin\Debug\net6.0\Exemple_1.deps.json
+C:\Users\Samsung\Desktop\Sharpito\Exemple_1\bin\Debug\net6.0\Exemple_1.runtimeconfig.json
+C:\Users\Samsung\Desktop\Sharpito\Exemple_1\bin\Debug\net6.0\Exemple_1.dll
+C:\Users\Samsung\Desktop\Sharpito\Exemple_1\bin\Debug\net6.0\Exemple_1.pdb
+C:\Users\Samsung\Desktop\Sharpito\Exemple_1\obj\Debug\net6.0\Exemple_1.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\Sharpito\Exemple_1\obj\Debug\net6.0\Exemple_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\Sharpito\Exemple_1\obj\Debug\net6.0\Exemple_1.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\Sharpito\Exemple_1\obj\Debug\net6.0\Exemple_1.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\Sharpito\Exemple_1\obj\Debug\net6.0\Exemple_1.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\Sharpito\Exemple_1\obj\Debug\net6.0\Exemple_1.dll
+C:\Users\Samsung\Desktop\Sharpito\Exemple_1\obj\Debug\net6.0\refint\Exemple_1.dll
+C:\Users\Samsung\Desktop\Sharpito\Exemple_1\obj\Debug\net6.0\Exemple_1.pdb
+C:\Users\Samsung\Desktop\Sharpito\Exemple_1\obj\Debug\net6.0\Exemple_1.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\Sharpito\Exemple_1\obj\Debug\net6.0\ref\Exemple_1.dll
