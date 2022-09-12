@@ -6,18 +6,18 @@
 Console.Write("Введите два числа: ");
 
 int number1 = Convert.ToInt32(Console.ReadLine());
- 
+
 int number2 = Convert.ToInt32(Console.ReadLine());
- 
+
 if (number1 > number2)
 {
-Console.Write("Наибольшее число: "+number1);
+    Console.Write("Наибольшее число: " + number1);
 }
 else
 {
-Console.Write("Наибольшее число:"+number2);
+    Console.Write("Наибольшее число:" + number2);
 }
- 
+
 
 //Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
@@ -33,12 +33,12 @@ int max = num_1;
 
 if (num_2 > max)
 {
-max = num_2;
+    max = num_2;
 }
 
 if (num_3 > max)
 {
-max = num_3;
+    max = num_3;
 }
 
 Console.Write("Наибольшее из введённых чисел -> " + max);
@@ -55,31 +55,31 @@ num = Convert.ToInt32(Console.ReadLine());
 
 if (num % 2 == 1)
 {
-Console.Write("Число " + num + "нечетное");
+    Console.Write("Число " + num + "нечетное");
 }
 else
 {
-Console.WriteLine("Число " + num + "чётное");
+    Console.WriteLine("Число " + num + "чётное");
 }
 
 /* Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 
 5 -> 2, 4
 8 -> 2, 4, 6, 8 */
-int  firstEven = 2;
+int firstEven = 2;
 
 Console.Write("Введите число:");
 num = Convert.ToInt32(Console.ReadLine());
 
 if (firstEven > num)
 {
-Console.WriteLine("Нет чётных чисел!");
+    Console.WriteLine("Нет чётных чисел!");
 }
 
 Console.Write("Чётные числа от 1 до " + num);
 while (firstEven <= num)
 {
-Console.Write(firstEven + ", ");
-firstEven = firstEven + 2;
+    Console.Write(firstEven + ", ");
+    firstEven = firstEven + 2;
 }
 
